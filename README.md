@@ -49,5 +49,3 @@ If you have any questions on how to use this bubble sheet corrector, or have ide
 ## Authors 
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - Computer engineer
 
-## Licence 
-MIT
