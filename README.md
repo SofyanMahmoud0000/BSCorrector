@@ -44,7 +44,8 @@ In this project we considre that the bubble sheet image is clear and top-view.
 So, this project need to get improved by handling the images which aren't clear or not top-view 
 
 ## Development and support 
-If you have any questions on how to use this bubble sheet corrector, or have ideas for future development, please send me an e-mail to sofyan1020@gmail.com.
+If you have any questions on how to use this bubble sheet corrector, or have ideas for future development, 
+please send me an e-mail to sofyan1020@gmail.com.
 
 ## Authors 
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - Computer engineer
